@@ -8,7 +8,7 @@ while True:
     print("1. Add Student")
     print("2. Display Students with Average > 80")
     print("3. Update Student Marks")
-    print("4. Display All Students")
+    print("4. Display All Students of the college")
     print("5. Exit")
 
     choice = int(input("Enter your choice: "))
